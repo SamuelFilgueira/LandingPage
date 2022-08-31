@@ -14,12 +14,13 @@
 
 <h2>Como rodar o projeto:</h2>
 
-# git clone https://github.com/SamuelFilgueira/anime-Search.git
+``git clone https://github.com/SamuelFilgueira/LandingPage.git``
 
-Instalar as dependências do projeto
-npm
+Instalar as dependências e rodar o projeto
 
-npm start
+``npm``
+
+``npm start``
 
 Acessar no seu navegador
-http://localhost:3000
+``http://localhost:3000``
