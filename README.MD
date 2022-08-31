@@ -14,7 +14,7 @@
 
 <h2>Como rodar o projeto:</h2>
 
-# git clone https://github.com/SamuelFilgueira/anime-Search.git
+``git clone https://github.com/SamuelFilgueira/LandingPage``
 
 Instalar as dependências do projeto
 npm
