@@ -1,6 +1,6 @@
 <h1>Sobre o projeto</h1>
 
-<p>Um projeto simples, feito com intuito de treinar as rotas com o react-router-dom v6</p>
+<p>Um projeto simples, feito com intuito de treinar o que estou atualmente aprendendo sobre o react-router-dom</p>
 
 <h2>Tecnologias utilizadas</h2>
 
