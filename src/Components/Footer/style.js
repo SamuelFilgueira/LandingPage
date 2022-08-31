@@ -7,7 +7,7 @@ export const Container = styled.footer`
   margin: auto;
   padding: 12px;
   width: 100%;
-  background-color: #262626;
+  background-color: #333333;
 
 
   .footer-menu {
