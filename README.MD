@@ -6,7 +6,7 @@
 <img src="./Assets/notFound.png" />
 
 
-<h2>Tecnologias utilizadas</h2>
+<h2>Tecnologias utilizadas</h2> 
 
 <ul>
     <li>HTML</li>
