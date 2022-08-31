@@ -1,5 +1,5 @@
 import { Container, Description } from "./style";
-import Headset from "../../Assets/headset.png";
+import Headset from "../../Assets/headset1.png";
 import HeadsetlATERAL from "../../Assets/headsetLateral.png";
 import PessoaComHeadseat from "../../Assets/PessoaComHeadseat.jpeg";
 import Comment from "../Comment";
@@ -46,8 +46,6 @@ const Home = () => {
       </Description>
 
       <Comment />
-
-
     </Container>
   );
 };
