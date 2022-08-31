@@ -1,9 +1,11 @@
 <h1>Sobre o projeto</h1>
+https://landing-page-techz.netlify.app/
 
 <p>Um projeto simples, feito com intuito de treinar o que estou atualmente aprendendo sobre o react-router-dom.</p>
 <p>Ao clicar para ir para a home ou para a página de sobre, o <strong><i>Link</i></strong> irá levar para o componente desejado. Ao digitar uma rota que não seja válida, será redirecionado para uma página de não encontrado.</p>
 
-<img src="./Assets/notFound.png" />
+![Web padrão](https://github.com/SamuelFilgueira/LandingPage-assets/blob/main/notFound.PNG) 
+
 
 
 <h2>Tecnologias utilizadas</h2> 
